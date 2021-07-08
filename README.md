@@ -16,4 +16,6 @@ Solution
 
 Set up the MVVM Architecture 
 
+Set up UI Screen in Storyboard
+
 Write code for extensions, APIs, functionality
